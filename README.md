@@ -1,5 +1,6 @@
 ## EX. NO: 1 : IMPLEMENTATION OF CAESAR CIPHER
- 
+ #### Name: Divya R V
+ #### Reg no: 212223100005
 
 ## AIM:
 
@@ -28,7 +29,7 @@ becomes C. To change a message back, each letter is replaced by the one three be
 
 
 ### PROGRAM :-
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 void caesarEncrypt(char *text, int key) {
@@ -59,6 +60,10 @@ caesarDecrypt(message, key);
 printf("Decrypted Message: %s", message);
 return 0;
 }
-
+```
 ### OUTPUT :-
 
+![Screenshot 2025-03-06 090046](https://github.com/user-attachments/assets/c72189bd-d6d6-4c95-a17d-f06ae04ad535)
+
+### RESULT:
+The program is executed successfully.
